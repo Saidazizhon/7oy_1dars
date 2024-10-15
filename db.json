@@ -1,0 +1,23 @@
+{
+    "organization":[
+        {
+          "key": "1",
+          "id":"1",
+          "companyName": "Najot Talim",
+          "inn":"222333658",
+          "status":"faol",
+          "address": "Toshkent, Chilonzor 9kv",
+          "createdAt":"05.11.2018"
+        },
+        {
+            "key": "2",
+            "id":"2",
+            "companyName": "HardWork",
+            "inn":"112333658",
+            "status":"faol",
+            "address": "Toshkent, Chilonzor 9kv",
+            "createdAt":"05.11.2015"
+        }
+        
+      ]
+}
